@@ -16,7 +16,6 @@ Model Persistence : Saves the trained model for reuse in future predictions.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Dataset Description
@@ -90,13 +89,11 @@ Guidelines for contributing to the project.
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Contact
 
-Your Name - [Your Email](mailto:vishnutejaperumandla@gmail.com)
+Your Name - [vishnutejaperumandla@gmail.com ](mailto:vishnutejaperumandla@gmail.com)
 
 Project Link: [https://github.com/vishnuteja8/forest-fire-prediction](https://github.com/vishnuteja8/forest-fire-prediction)
 
