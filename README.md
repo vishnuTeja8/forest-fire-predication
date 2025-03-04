@@ -18,8 +18,6 @@ Model Persistence : Saves the trained model for reuse in future predictions.
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-- [How to Run Tests](#how-to-run-tests)
 
 ## Dataset Description
 The dataset is split into two regions:
@@ -102,21 +100,6 @@ Your Name - [Your Email](mailto:vishnutejaperumandla@gmail.com)
 
 Project Link: [https://github.com/vishnuteja8/forest-fire-prediction](https://github.com/vishnuteja8/forest-fire-prediction)
 
-## Acknowledgements
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
 
 
 
-List any relevant features here.
-
-## How to Run Tests
-
-Instructions on how to run tests for your project.
-
-```bash
-# Run tests
-npm test
-```
