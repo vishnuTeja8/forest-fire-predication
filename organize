@@ -1,0 +1,7 @@
+forest-fire-prediction/
+│
+├── data/                  # Store datasets here
+├── notebooks/             # Jupyter notebooks for EDA and modeling
+├── src/                   # Python scripts for preprocessing, modeling, and deployment
+├── requirements.txt       # List of dependencies
+└── README.md              # Project description
