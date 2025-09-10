@@ -16,7 +16,8 @@ matplotlib==3.7.1
 seaborn==0.12.2
 
 # Model persistence
-pickle5==0.0.10
+pickle
+
 
 
 
