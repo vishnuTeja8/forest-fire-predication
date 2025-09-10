@@ -1,6 +1,5 @@
 # requirements.txt
-setuptools==68.2.2
-wheel==0.42.0
+
 
 pip==24.0
 # Core libraries
@@ -17,6 +16,7 @@ seaborn==0.12.2
 
 # Model persistence
 pickle5==0.0.10
+
 
 
 
