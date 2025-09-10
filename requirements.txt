@@ -14,3 +14,9 @@ seaborn==0.12.2
 
 # Model persistence
 pickle5==0.0.10
+
+setuptools
+wheel
+pip
+your-other-package-here
+
