@@ -3,7 +3,8 @@
 
 pip==24.0
 # Core libraries
-numpy==1.23.5
+#numpy==1.23.5
+numpy==1.26.4
 pandas==1.5.3
 scikit-learn==1.2.2
 
@@ -16,6 +17,7 @@ seaborn==0.12.2
 
 # Model persistence
 pickle5==0.0.10
+
 
 
 
